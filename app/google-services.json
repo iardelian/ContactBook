@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297164166146",
+    "project_id": "firebase-sannacode"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297164166146:android:090b1d1410b1e93e",
+        "android_client_info": {
+          "package_name": "com.iardel.sannacode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297164166146-vbc6ae4ctdshohdd55gtp5ddh98rripg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iardel.sannacode",
+            "certificate_hash": "398506293b89ef2ec34102225b60126172433138"
+          }
+        },
+        {
+          "client_id": "297164166146-2cpi33q0169clj1848sj6micdibdmup6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx51R5RfNyjj2Py7bRZLvZhH7K27s601w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

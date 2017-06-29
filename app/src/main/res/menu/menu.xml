@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_contact"
+        android:orderInCategory="1"
+        android:title="@string/add_new_contact" />
+    <item
+        android:id="@+id/sort_firstname"
+        android:orderInCategory="2"
+        android:title="@string/sort_by_firstname" />
+    <item
+        android:id="@+id/sort_lastname"
+        android:orderInCategory="3"
+        android:title="@string/sort_by_lastname" />
+    <item
+        android:id="@+id/sort_date"
+        android:orderInCategory="3"
+        android:title="@string/sort_by_date" />
+
+    <item
+        android:id="@+id/log_out"
+        android:orderInCategory="3"
+        android:title="@string/log_out" />
+
+</menu>
